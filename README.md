@@ -5,7 +5,7 @@ Estudante de **Ciência da Computação na PUCRS** (Porto Alegre), com foco em *
 - 🔨 Construindo agora: [**GameShelf**](https://github.com/eduortizr/gameshelf), uma API REST para gerenciar seu backlog de jogos
 - 🎓 Participei da **AGES** (Agência Experimental de Engenharia de Software da PUCRS)
 - 🌎 Inglês avançado
-- 📫 [LinkedIn](https://www.linkedin.com/in/eduardo-ortiz-725a59296)
+- 📫 [LinkedIn](https://www.linkedin.com/in/eduortizr)
 
 ## 🛠️ Tecnologias
 
